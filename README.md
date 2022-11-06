@@ -1,8 +1,7 @@
 # lcd_1602_dht11_arduino_ct  #
 
 danzup arduino atmega2560 , ethernet shield ,  6 LM50 sensor , 1 relay , lcd 1602 , dht11 .
-First 4 sensors are attached direct to atmega2560 , sensor 5 and 6 are attached to another
-atmega16 and the readings / values are send serial to atmega2560.
+All 6 LM 50 sensors are directly attached.
 Sensor LM50 from 1 to 4 are temperature monitoring my automated pellet Fornello furnace temperature (2 sensors) 
 and input output of my puffer (2sensors),  
 sensor 5 temperature is on my water solar pannel heater outside , 
