@@ -1,4 +1,5 @@
-# lcd_1602_dht11_arduino_ct
+# lcd_1602_dht11_arduino_ct  #
+
 danzup arduino atmega2560 , ethernet shield ,  6 LM50 sensor , 1 relay , lcd 1602 , dht11
 First 4 sensors are attached direct to atmega2560 , sensor 5 and 6 are attached to another
 atmega16 and the readings / values are send serial to atmega2560
