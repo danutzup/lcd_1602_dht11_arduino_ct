@@ -8,5 +8,5 @@ and input output of my puffer (2sensors),
 sensor 5 temperature is on my water solar pannel heater outside , 
 sensor 6 temperature is on my boiler for hot watter used in kitchen and bathroom . 
 the relay is for controll the electrical pump .
-Atmega2560 then send mqttdata and retrieve status for the relay by subscribing to mqtt topics.
-Also on a LCD 16x2 prints diferent data from sensors.
+Atmega2560 then send mqtt data read from sensors and retrieve status for the relay by subscribing to mqtt topics.
+Also on a LCD 16x2 prints diferent data from sensors ( temperature . himidity ).
